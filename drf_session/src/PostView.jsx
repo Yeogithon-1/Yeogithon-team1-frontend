@@ -26,7 +26,7 @@ import {
   CommentBoxDiv,
 } from "./styleComponent.js";
 import Header from "./Header";
-import Comments from "./Comments";
+//import Comments from "./Comments";
 
 const PostView = () => {
   const { id } = useParams();
